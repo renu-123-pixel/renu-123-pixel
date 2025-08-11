@@ -17,7 +17,6 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Renu Ekka</h1>
 <h3 align="center">A passionate frontend developer,android developer from India</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=renu-123-pixel" alt="renu-123-pixel" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -31,6 +30,6 @@ Here are some ideas to get you started:
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=renu-123-pixel&show_icons=true&locale=en&layout=compact" alt="renu-123-pixel" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=renu-123-pixel&show_icons=true&locale=en" alt="renu-123-pixel" /></p>
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=renu-123-pixel&" alt="renu-123-pixel" /></p>
