@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">Hi 👋, I'm Renu Ekka</h1>
-<h3 align="center">A passionateandroid developer</h3>
+<h3 align="center">A passionate android developer</h3>
 
 
 <h3 align="left">Connect with me:</h3>
